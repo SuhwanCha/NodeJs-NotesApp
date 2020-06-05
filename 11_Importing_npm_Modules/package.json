@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-notesapp",
+  "version": "1.0.0",
+  "description": "Practicing Node.js. Section 1: Notes App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuhwanCha/NodeJs-NotesApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SuhwanCha/NodeJs-NotesApp/issues"
+  },
+  "homepage": "https://github.com/SuhwanCha/NodeJs-NotesApp#readme",
+  "dependencies": {
+    "validator": "^13.0.0"
+  }
+}
